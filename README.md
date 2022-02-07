@@ -4,7 +4,7 @@
 <h5 align="center">A self learned ML | AL Enthusiast who learn the concepts just out of curiosity</h5>
 
 
-Being a Instrumentaion engineer by profession, was always facinated by the possibllities utilisation of the data.
+Being a Instrumentaion engineer by profession, was always facinated by the possible utilisation of the available data.
 The ability of machines to perform intelligent tasks like humans using the gateway of Neural networks have inspired me to be a part this AI relolution.  
 
 #### Technical experience and interest in:
