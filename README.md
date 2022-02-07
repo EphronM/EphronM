@@ -30,12 +30,17 @@ The ability of machines to perform intelligent tasks like humans using the gatew
 * Exploring
 * Music
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EphronM&show_icons=true&locale=en&layout=compact&theme=gotham" alt="EphronM" /></p>
+
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EphronM&theme=gotham" alt="EphronM" /></p>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=EphronM&show_icons=true&theme=gotham" alt="EphronM" />
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=EphronM&show_icons=true&theme=gotham" alt="EphronM" />
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EphronM&show_icons=true&locale=en&layout=compact&theme=gotham" alt="EphronM" /></p>
+
 
 <!---
 EphronM/EphronM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
