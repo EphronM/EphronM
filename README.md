@@ -4,8 +4,7 @@
 <h5 align="center">A self learned ML | AL Enthusiast who learn the concepts just out of curiosity</h5>
 
 
-Being a Instrumentaion engineer by profession, was always facinated by the possible utilisation of the available data.
-The ability of machines to perform intelligent tasks like humans using the gateway of Neural networks have inspired me to be a part this AI relolution.  
+Being an Instrumentation engineer by profession was always facinated by the possible utilization of the available data. The ability of machines to perform intelligent tasks like humans using the gateway of Neural networks has inspired me to be a part of this AI revolution.  
 
 #### Technical experience and interest in:
 * Data Analytics
