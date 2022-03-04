@@ -29,14 +29,12 @@ Being an Instrumentation engineer by profession was always facinated by the poss
 * Exploring
 * Music
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EphronM&show_icons=true&locale=en&layout=compact&theme=gotham" alt="EphronM" /></p>
+<h2 align="center"> Most Used Languages </h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EphronM&show_icons=true&locale=en&layout=compact&theme=gotham" alt="EphronM" /></p>
 <br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EphronM&theme=gotham" alt="EphronM" /></p>
-<br>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=EphronM&show_icons=true&theme=gotham" alt="EphronM" />
+<h2 align="center"> Git Stats </h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EphronM&show_icons=true&theme=gotham" alt="EphronM" />
 
 
 
