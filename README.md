@@ -31,7 +31,6 @@ Being an Instrumentation engineer by profession was always facinated by the poss
 
 <h2 align="center"> Most Used Languages </h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EphronM&show_icons=true&locale=en&layout=compact&theme=gotham" alt="EphronM" /></p>
-<br>
 
 <h2 align="center"> Git Stats </h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EphronM&show_icons=true&theme=gotham" alt="EphronM" />
